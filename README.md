@@ -13,7 +13,7 @@ Osa-aineistot:
 Ryhmittelymenetelmät:
 Diana (jakava hierarkkinen), Pam (k-metoids), Hclust (agglomeratiivinen hierarkkinen) 3 linkillä
 
-Koodien ajosta uusilla otoksilla kiinnostuneen pyydän huomioimaan koodin otosten oletetun koon (1000x1000 matriiseja paitsi midSize:lle 1200x1200 ja sub100:lle 243x243). Tämä repo ei sisällä (ainakaan vielä) itse käytettämiäni otoksia, vaan ne kiinnostunut saa laskea itse.
+Koodien ajosta uusilla otoksilla kiinnostuneen pyydän huomioimaan koodin otosten oletetun koon (1000x1000 matriiseja paitsi midSize:lle 1200x1200 ja sub100:lle 243x243). Tämä repo sisältää yhden osa-aineiston (LargeSize, kansio LSsamples) otokset (K80- ja kosinietäisyydet sekä tarvittavat metatiedostot), jota olen itse käyttänyt. Muut otokset kiinnostunut saa laskea itse.
 
 Sisältö:
 - Data_sisäänajo.R näyttää itse sisäänajon lisäksi, miten puuttuvaa tietoa on käsitelty ja datan labeleiden vaihtelua.
